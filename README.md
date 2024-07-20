@@ -1,5 +1,5 @@
 - 👋 Hi, <b>Shivam</b> here
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science, Development & Design
 - 🌱 I’m currently learning just data
 
 <!---
