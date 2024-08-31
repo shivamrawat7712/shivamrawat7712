@@ -7,11 +7,7 @@ I'm a developer and a analyst who loves building my version of the digital world
 ## 🛠 Skills
 
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=flat&logo=javascript&logoColor=black)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=flat&logo=javascript&logoColor=black),![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white),![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
 
 <h3 align="left">Connect with me:</h3>
