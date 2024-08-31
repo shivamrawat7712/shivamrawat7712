@@ -6,13 +6,11 @@ I'm a developer and a analyst who loves building my version of the digital world
 
 ## 🛠 Skills
 
-### JavaScript
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=flat&logo=javascript&logoColor=black)
 
-### Python
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-### React
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
 
