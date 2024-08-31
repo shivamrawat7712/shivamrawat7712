@@ -23,7 +23,7 @@ I'm a developer and a analyst who loves building my version of the digital world
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivamrawat7712&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
+<!--![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivamrawat7712&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)-->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamrawat7712&layout=compact&hide_title=true&hide_border=true&theme=radical)
 
