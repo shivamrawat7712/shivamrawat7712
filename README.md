@@ -13,9 +13,7 @@ I'm a developer and a analyst who loves building my version of the digital world
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/rawat.shivam108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rawat.shivam108" height="30" width="40" /></a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rawat.shivam108" height="30" width="40" /></a>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamrawat7712&" alt="shivamrawat7712" /></p>
