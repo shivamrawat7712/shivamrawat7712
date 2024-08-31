@@ -7,7 +7,9 @@ I'm a developer and a analyst who loves building my version of the digital world
 ## 🛠 Skills
 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-0088CE?style=flat&logo=powerbi&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -18,7 +20,17 @@ I'm a developer and a analyst who loves building my version of the digital world
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamrawat7712&" alt="shivamrawat7712" /></p>
 
 
-<!---
-shivamrawat7712/shivamrawat7712 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_title=true&hide_border=true&theme=radical)
+
+## 📫 How to reach me
+
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [Twitter](https://twitter.com/your-username)
+- [Email](mailto:your-email@example.com)
+
+Thanks for visiting my profile!
