@@ -2,6 +2,8 @@
 - 👀 I’m interested in Data Science, Development & Design
 - 🌱 I’m currently learning and working on making projects
 
+  I'm a developer and a analyst who loves building my version of the digital world one step at a time. All coding/data projects are built from the ground up, from planning and designing all the way to solving real-life problems with code/tools. It's built from ideation and planning
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
