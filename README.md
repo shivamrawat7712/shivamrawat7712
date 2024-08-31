@@ -1,6 +1,6 @@
 - 👋 Hi, <b>Shivam</b> here
 - 👀 I’m interested in Data Science, Development & Design
-- 🌱 I’m currently learning SQL, Machine Learning and working on making projects
+- 🌱 I’m currently learning and working on making projects
 
 
 <h3 align="left">Connect with me:</h3>
