@@ -29,8 +29,8 @@ I'm a developer and a analyst who loves building my version of the digital world
 
 ## 📫 How to reach me
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-username)
-- [Email](mailto:your-email@example.com)
+- [LinkedIn]()
+<!-- [Twitter](https://twitter.com/your-username)-->
+- [Email](shivam.rawatt389@gmail.com)
 
 Thanks for visiting my profile!
