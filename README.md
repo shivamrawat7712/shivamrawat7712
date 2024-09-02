@@ -27,4 +27,4 @@ I'm a developer and an analyst who loves building my version of the digital worl
 
 Thanks for visiting my profile.
 <br>
-Hope you like it !
+Hope you like !
