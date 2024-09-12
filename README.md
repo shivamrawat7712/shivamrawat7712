@@ -17,7 +17,7 @@ I'm a developer and an analyst who loves building my version of the digital worl
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamrawat7712&layout=compact&hide_title=true&hide_border=true&theme=radical)
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamrawat7712&" alt="shivamrawat7712" /></p>
+
 
 ## 📫 How to reach me -
 
