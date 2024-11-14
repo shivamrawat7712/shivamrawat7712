@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning and working on making projects-->
 **`Artistic(Developer/Analyst/--)`**
 
-I'm a developer and an analyst who loves building my version of the digital world one step at a time. All coding/data projects are built from the ground up, from planning and designing all the way to solving real-life problems with code/tools. It's built from ideation and planning.
+I'm an individual who loves building my version of this digital world and connecting to people it's one step at a time, helping organizations to make the best out of it.
 
 ## 🛠 Skills:
 
