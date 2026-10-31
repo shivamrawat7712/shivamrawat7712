@@ -1,4 +1,4 @@
-<!-- 👋 Hi, <b>Shivam</b> here
+<!-- 👋 <b>Shivam herre!</b> here
 - 👀 I’m interested in Data, Development & Design
 - 🌱 I’m currently learning and working on making projects-->
 **`Artistic(Developer/Analyst/--)`**
@@ -20,7 +20,7 @@ I'm an individual who loves building my version of this digital world and connec
 
 
 ## 📫 How to reach me -
-
+  Open to internships and collaborations
 - [LinkedIn](https://www.linkedin.com/in/shivam-rawat-1b393928a/)
 <!-- [Twitter](https://twitter.com/your-username)-->
 - [Email](shivam.rawatt389@gmail.com)
